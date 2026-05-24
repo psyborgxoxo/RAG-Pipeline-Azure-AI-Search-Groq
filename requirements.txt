@@ -1,0 +1,14 @@
+ 
+azure-search-documents==11.4.0
+azure-core
+python-dotenv
+openai
+pdfplumber
+python-docx
+beautifulsoup4
+pytesseract
+Pillow
+langchain-text-splitters
+ragas
+datasets
+rank_bm25
