@@ -12,3 +12,5 @@ langchain-text-splitters
 ragas
 datasets
 rank_bm25
+fastapi
+uvicorn[standard]
